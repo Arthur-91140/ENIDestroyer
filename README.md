@@ -50,7 +50,7 @@ python Request-Sender.py
 
 ## 🛠️ Code source et fonctionnalités
 
-### Module de scan réseau (`network_scanner.py`)
+### Module de scan réseau (`LAN-WLAN-Scan.py`)
 
 ```python
 import socket
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     main()
 ```
 
-### Module de connexion ENI (`eni_connector.py`)
+### Module de connexion ENI (`Request-Sender.py`)
 
 ```python
 import socket
